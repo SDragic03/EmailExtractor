@@ -1,0 +1,11 @@
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\bin\Debug\EmailExtractorApp.exe.config
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\bin\Debug\EmailExtractorApp.exe
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\bin\Debug\EmailExtractorApp.pdb
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\bin\Debug\WebEmailExtractor.exe
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\bin\Debug\WebEmailExtractor.pdb
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\obj\Debug\EmailExtractorApp.csprojResolveAssemblyReference.cache
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\obj\Debug\EmailExtractorApp.Form1.resources
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\obj\Debug\EmailExtractorApp.Properties.Resources.resources
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\obj\Debug\EmailExtractorApp.csproj.GenerateResource.Cache
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\obj\Debug\EmailExtractorApp.exe
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\EmailExtractorApp\obj\Debug\EmailExtractorApp.pdb
