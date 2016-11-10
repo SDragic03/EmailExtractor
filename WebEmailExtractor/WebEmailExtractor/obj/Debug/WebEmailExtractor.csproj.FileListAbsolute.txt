@@ -10,3 +10,6 @@ Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtrac
 Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\WebEmailExtractor.exe
 Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\WebEmailExtractor.pdb
 Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\obj\Debug\WebEmailExtractor.csprojResolveAssemblyReference.cache
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\HtmlAgilityPack.dll
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\HtmlAgilityPack.pdb
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\HtmlAgilityPack.xml
