@@ -7,3 +7,6 @@ Z:\SharedData\Dev\EmailExtractor\WebEmailExtractor\WebEmailExtractor\obj\Debug\W
 Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\WebEmailExtractor.exe.config
 Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\obj\Debug\WebEmailExtractor.exe
 Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\obj\Debug\WebEmailExtractor.pdb
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\WebEmailExtractor.exe
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\bin\Debug\WebEmailExtractor.pdb
+Z:\SharedData\Dev\EmailExtractor\EmailExtractor\WebEmailExtractor\WebEmailExtractor\obj\Debug\WebEmailExtractor.csprojResolveAssemblyReference.cache

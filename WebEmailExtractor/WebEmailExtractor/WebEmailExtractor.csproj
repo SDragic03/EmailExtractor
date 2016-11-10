@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EmailExtractor.cs" />
+    <Compile Include="EmailExtractorExtensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EmailExtractor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
