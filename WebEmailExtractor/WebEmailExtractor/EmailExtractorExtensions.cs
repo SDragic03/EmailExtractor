@@ -15,6 +15,9 @@ namespace WebEmailExtractor
         {
             try
             {
+                if (!RemoteFileExists(url))
+                    return new List<string>();
+
                 var webCLient = new WebClient();
                 var data = webCLient.DownloadData(url);
                 var download = Encoding.ASCII.GetString(data);
@@ -34,7 +37,8 @@ namespace WebEmailExtractor
             }
             catch (Exception)
             {
-                MessageBox.Show("The URL seems to be broken! Please try again or use another URL.");
+                MessageBox.Show("Something broke me!"
+                    + " Sorry, I have to close now =[...");
                 if (Form.ActiveForm != null) Form.ActiveForm.Close();
             }
             return null;
@@ -46,6 +50,23 @@ namespace WebEmailExtractor
                    + @"((([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\."
                    + @"([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])){1}|"
                    + @"([a-zA-Z]+[\w-]+\.)+[a-zA-Z]{2,4})";
+        }
+
+        private static bool RemoteFileExists(string url)
+        {
+            try
+            {
+                var request = WebRequest.Create(url) as HttpWebRequest;
+                request.Method = "HEAD";
+
+                var response = request.GetResponse() as HttpWebResponse;
+                response.Close();
+                return (response.StatusCode == HttpStatusCode.OK);
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }
